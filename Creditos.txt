@@ -1,0 +1,21 @@
+Créditos.
+Los Modelos que se utilizaron fueron de las siguientes Paginas:
+-)TurboSquid
+-)My SweetHome 3D
+-)Unity AssetStore
+
+Ligas:
+•	https://www.turbosquid.com/3d-models/free-3ds-model-box/994235
+•	https://assetstore.unity.com/packages/3d/vehicles/land/fork-loader-hq-123806
+•	https://www.turbosquid.com/3d-models/bookcase-3d-model-1550714
+•	http://www.sweethome3d.com/searchModels.jsp?model=shelve&x=0&y=0
+
+Autores:
+-) Indie_G (Fork Loader HQ)
+-) GizArt (Box Low Poly)
+-) DeepDreamDimesion (BookCase 3D)
+-) SweetHome 3D (Shelve)
+
+Licencias:
+-)  Standard Unity Asset Store EULA
+-) 3D Model License: Standard
